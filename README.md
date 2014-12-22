@@ -35,21 +35,46 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The English traueller As it hath beene publikely acted at the Cock-pit in Drury-lane: by Her Maiesti
+
+1. Dramatis Personae.
+
+1. TO THE RIGHT
+WORSHIPFVLL
+Sir HENRY APPLETON,
+Knight Barronet, &c.
+
+1. To the Reader.
+
+1. The Prologue.
+
 #####Body#####
 
-1. Scena prima.
+1. THE
+ENGLISH
+TRAVELLER.
 
-1. Actus Primus.
+    _ Actus primus.
+
+      * Scena prima.
+
+      * Actus Primus.
 Scena Secundus.
 
-1. Scena Prima.
+    _ Actus Secundus.
 
-1. Seena Prima.
+      * Scena Prima.
 
-1. Scena Prima.
+    _ Actus Tertius.
 
-1. Scena Prima.
+      * Seena Prima.
+
+    _ Actus Quartus.
+
+      * Scena Prima.
+
+    _ Actus Quintus.
+
+      * Scena Prima.
 
 **Types of content**
 
